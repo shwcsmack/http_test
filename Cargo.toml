@@ -1,0 +1,6 @@
+[package]
+name = "http_test"
+version = "0.1.0"
+authors = ["Shayne Stewart <sh.wc.smack@gmail.com>"]
+
+[dependencies]
